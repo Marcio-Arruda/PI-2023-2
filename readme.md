@@ -10,3 +10,4 @@
   - Cadastro de Fornecedor
 
 ## Diagrama de Caso de Uso
+![Cases](/assets/images/cases.jpg)
