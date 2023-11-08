@@ -31,5 +31,11 @@
 ### Tela de Cadastro de Professor
 ![Professor](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/1b6d95dc-cca9-4d06-9748-6e6bfcdbe4b6)
 
+### Tela de Cadastro de Pessoa Jurídica
+![Pessoa-Juridica](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/4f78bcd4-a65e-460c-aa6b-a0f2935bd892)
+
+### Tela de Cadastro de Fornecedor
+![Fornecedor](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/9109db13-7f0f-4085-a0dd-5b3d79ca8431)
+
 ### Tela Sobre
 ![Sobre](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/8c1e000a-aa16-4e6b-8128-2bf0ab442b75)
