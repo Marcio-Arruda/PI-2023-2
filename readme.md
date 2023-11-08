@@ -8,3 +8,5 @@
   - Cadastro de Professor
 - Cadastro de Pessoa Jurídica
   - Cadastro de Fornecedor
+
+## Diagrama de Caso de Uso
