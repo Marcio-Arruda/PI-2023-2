@@ -26,6 +26,7 @@
 ![Pessoa-Fisica](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/3f06c08b-b144-4dea-a7d6-6a02a6f59303)
 
 ### Tela de Cadastro de Aluno
+![Aluno](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/fef41aea-79a5-4c74-a6cf-5d3fa1f5afc1)
 
 ### Tela de Cadastro de Professor
 ![Professor](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/1b6d95dc-cca9-4d06-9748-6e6bfcdbe4b6)
