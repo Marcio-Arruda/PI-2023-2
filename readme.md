@@ -18,7 +18,7 @@
 ## Prototipação Low Fidelity
 ![Low](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/eecf70ae-d205-42ed-90ac-bcf7ce8e46e4)
 
-## Prototipação Higth Fidelity
+## Prototipação High Fidelity
 
 ### Tela de Login
 ![Login](https://github.com/Marcio-Arruda/PI-2023-2/assets/150199455/3b8103cd-31df-4dba-b650-cb648ceaedaa)
