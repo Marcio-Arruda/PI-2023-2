@@ -1,5 +1,4 @@
 # Gestão Escolar
-## Tutorial
 
 ## Lista de Funcionalidades
 - Tela de Login
